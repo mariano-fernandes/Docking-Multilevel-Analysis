@@ -1,7 +1,0 @@
-numpy  # modules/clustering.py, modules/rmsd_metrics.py, modules/interactions.py, modules/_interaction_engine.py
-pandas  # modules/engine.py
-scikit-learn  # modules/clustering.py
-scipy  # modules/clustering.py
-scipy-stubs  # type stubs for scipy used by modules/clustering.py
-openpyxl  # modules/engine.py
-rdkit  # modules/pose_loading.py, modules/rmsd_metrics.py, modules/interactions.py, modules/_interaction_engine.py
