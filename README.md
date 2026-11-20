@@ -6,9 +6,9 @@
 
 ## Citation
 
-Please cite:
+**Please cite:**
 
-Mariano-Fernandes, L.; Marinho, M. M.; Marinho, E. S. Multilevel interaction networks and machine learning identify target-specific interaction patterns of lapachone derivatives with potential antileishmanial activity. DOI:
+> Mariano-Fernandes, L.; Marinho, M. M.; Marinho, E. S. Multilevel interaction networks and machine learning identify target-specific interaction patterns of lapachone derivatives with potential antileishmanial activity. DOI:
 
 ## Main features
 
