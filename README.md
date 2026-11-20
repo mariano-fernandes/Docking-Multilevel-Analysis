@@ -81,7 +81,7 @@ If a workbook with the same name already exists, CALS creates a numbered variant
 
 ## Excel workbook sheets
 
-### Classification and summaries (`#FFE699`)
+### Classification and summaries
 
 | Sheet | Content |
 | --- | --- |
@@ -91,7 +91,7 @@ If a workbook with the same name already exists, CALS creates a numbered variant
 | `Site Summary` | Aggregate statistics by site within each pocket. |
 | `Centroids` | Centroids of supplied pockets and classified sites. |
 
-### Interactions (`#C6E0B4`)
+### Interactions
 
 | Sheet | Content |
 | --- | --- |
@@ -101,7 +101,7 @@ If a workbook with the same name already exists, CALS creates a numbered variant
 
 A pose without detected molecular interactions appears in `Interactions by Type` as **No interactions detected**, with Pocket and Site set to `N/A`. This record is not a chemical interaction and the pose does not enter downstream analyses.
 
-### Conformational analysis and ranking (`#F8CBAD`)
+### Conformational analysis and ranking
 
 | Sheet | Content |
 | --- | --- |
@@ -113,7 +113,7 @@ A pose without detected molecular interactions appears in `Interactions by Type`
 
 Within each pocket-site combination, poses up to 1.0 kcal/mol above the best local energy are considered energetically competitive. The ranking uses **Score BP**, the geometric mean of Energy (exp), Structural Reproducibility (%), and Functional Reproducibility (%). Energy (exp) is calculated as `exp(-(ΔG - ΔGminimum)/2)` within the same local scope.
 
-### Networks and machine learning (`#B4C6E7`)
+### Networks and machine learning
 
 | Sheet | Content |
 | --- | --- |
@@ -127,7 +127,7 @@ Within each pocket-site combination, poses up to 1.0 kcal/mol above the best loc
 
 These sheets contain only poses with real interactions. Poses without detected interactions do not generate nodes, edges, or ML Analysis rows.
 
-### Coordinates (`#DBDBDB`)
+### Coordinates
 
 | Sheet | Content |
 | --- | --- |
